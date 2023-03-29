@@ -1,5 +1,5 @@
 # Temperature-Converter
-Temperature Converter (Fahrenheit to Celsius and vise versa) application built on JavaFX
+Temperature Converter (Fahrenheit to Celsius and vise versa) application built on JavaFX. Also there is folder: "AFmaven-project-Test" which is the implementation of the same project with Maven building tool.
 
 The main view of the app frame as following, which has the window for taking input temperature, and two buttons for Fahrenheit to Celsius and Celsius to Fahrenheit, and lastly output window. Project was built on the basis of MVC pattern (Model View Controller):
 
